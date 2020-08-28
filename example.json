@@ -1,4 +1,6 @@
 {
    "source" : {"id" : "0", "name": "toto"}, "title" : "Hero",
-   "source" : {"id" : "1", "name": "tata"}, "title" : "Maka"
-}
+
+},
+   { "source" : {"id" : "1", "name": "tata"}, "title" : "Maka"
+},
